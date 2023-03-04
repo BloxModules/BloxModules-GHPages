@@ -1,2 +1,2 @@
-# BloxModules-GHPages
-The hosted site
+# BloxModules
+The BloxModules Website
